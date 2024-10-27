@@ -11,7 +11,7 @@ public class RatingServiceApplication {
 	public static void main(String[] args) {
 
 		SpringApplication.run(RatingServiceApplication.class, args);
-		System.out.println("Hello World!");
+		System.out.println("This is our first Application in microservices");
 	}
 
 }
